@@ -1,0 +1,10 @@
+fastf1
+pandas
+scikit-learn
+xgboost
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+joblib
+pydantic
